@@ -1,15 +1,15 @@
-# <🖖 Hello!>
+## <🖖 Hello!>
 
 <p>Me chamo Olivelton Santos ( ou simplesmente Oli).</p>
 
 > 🎯 Meu propósito é unir educação, design e programação para melhorar a vida das pessoas.</p>
 
-## O que estudo atualmente?
+## 📝 O que estudo atualmente?
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> 
 
-## Meus projetos:
+## 🛠️ Meus projetos:
 
 <details>
 
@@ -27,7 +27,7 @@
 
 </details>
 
-## Acompanhe a minha jornada:
+## 📱 Acompanhe a minha jornada:
 
 <div> 
    <a href="https://hellooli.com/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
