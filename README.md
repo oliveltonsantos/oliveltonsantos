@@ -39,5 +39,5 @@
 <hr/>
 
 <div align="center">
-<strong>Stay hungry, stay foolish. - Steve Jobs</strong>
+<strong>Stay hungry, stay foolish. • Steve Jobs</strong>
 </div>
