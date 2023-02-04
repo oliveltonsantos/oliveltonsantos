@@ -14,6 +14,8 @@
 <details>
 
 <summary>Inglês com Pensadores</summary>
+
+<br>
  
 <p>💡 Propósito: ajudar as pessoas a conquistarem uma vida extraordinária através do inglês!</p>
 
