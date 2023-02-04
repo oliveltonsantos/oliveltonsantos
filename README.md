@@ -1,6 +1,6 @@
 ## <🖖 Hello!>
 
-<p>Me chamo Olivelton Santos ( ou simplesmente Oli).</p>
+<p>Me chamo Olivelton Santos (ou simplesmente Oli).</p>
 
 > 🎯 Meu propósito é unir educação, design e programação para melhorar a vida das pessoas.</p>
 
