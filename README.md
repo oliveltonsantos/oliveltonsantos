@@ -2,7 +2,9 @@
 
 <p>Me chamo Olivelton Santos (ou simplesmente Oli).</p>
 
-> 🎯 Meu propósito é unir educação, design e programação para melhorar a vida das pessoas.</p>
+## 🎯 Meu propósito é...
+ 
+ > unir educação, design e programação para melhorar a vida das pessoas.</p>
 
 ## 📝 O que estudo atualmente?
 
