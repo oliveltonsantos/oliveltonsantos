@@ -29,15 +29,10 @@
 
 ## 📱 Acompanhe a minha jornada:
 
-<div> 
-   <a href="https://oliveltonsantos.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/olivelton-santos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/navegandoemc0d1gos/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.youtube.com/@navegandoemc0d1gos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-</div>
+[Site pessoal](https://oliveltonsantos.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/olivelton-santos) | [Instagram](https://www.instagram.com/navegandoemc0d1gos/) | [YouTube](https://www.youtube.com/@navegandoemc0d1gos)
 
 <hr/>
 
 <div align="center">
-<strong> <a href="https://www.youtube.com/watch?v=UF8uR6Z6KLc&ab_channel=Stanford" target="_blank">Stay hungry, stay foolish. • Steve Jobs</a></strong>
+<strong> <a href="https://www.youtube.com/watch?v=UF8uR6Z6KLc&ab_channel=Stanford" target="_blank">Stay hungry, stay foolish. | Steve Jobs</a></strong>
 </div>
