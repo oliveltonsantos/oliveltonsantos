@@ -10,7 +10,29 @@
 
 - HTML5 | CSS3
 
-### 🛠️ Meus projetos:
+### 🛠️ Projetos que desenvolvi:
+
+<details>
+ 
+<summary>Portfólio pessoal</summary>
+ 
+- [Resultado final](https://oliveltonsantos.github.io/portfolio/)
+ 
+- [Repositório](https://github.com/oliveltonsantos/portfolio)
+ 
+</details>
+
+<details>
+ 
+<summary>Landing page: Idiomas mais falados no mundo</summary>
+
+- [Resultado final](https://oliveltonsantos.github.io/idiomas-mais-falados-do-mundo/)
+ 
+- [Repositório](https://github.com/oliveltonsantos/idiomas-mais-falados-do-mundo)
+ 
+</details>
+
+### 🚀 Projetos pessoais:
 
 <details>
 
