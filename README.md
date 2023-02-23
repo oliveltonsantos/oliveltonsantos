@@ -13,9 +13,9 @@ Me chamo Olivelton Santos (ou simplesmente Oli).
  
 <summary>Portfólio pessoal</summary>
  
-- [Resultado final](https://oliveltonsantos.github.io/portfolio/)
+- [Resultado final (clique aqui)](https://oliveltonsantos.github.io/portfolio/)
  
-- [Repositório](https://github.com/oliveltonsantos/portfolio)
+- [Repositório (clique aqui)](https://github.com/oliveltonsantos/portfolio)
  
 </details>
 
@@ -23,9 +23,9 @@ Me chamo Olivelton Santos (ou simplesmente Oli).
  
 <summary>Landing page: Idiomas mais falados no mundo</summary>
 
-- [Resultado final](https://oliveltonsantos.github.io/idiomas-mais-falados-do-mundo/)
+- [Resultado final (clique aqui)](https://oliveltonsantos.github.io/idiomas-mais-falados-do-mundo/)
  
-- [Repositório](https://github.com/oliveltonsantos/idiomas-mais-falados-do-mundo)
+- [Repositório (clique aqui)](https://github.com/oliveltonsantos/idiomas-mais-falados-do-mundo)
  
 </details>
  
