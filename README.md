@@ -51,6 +51,14 @@ Me chamo Olivelton Santos (ou simplesmente Oli).
  
 ##
 
+### 🤝 Oportunidades de trabalho e projetos
+
+Fico disponível para oportunidades de trabalho remoto ou mudança de cidade.
+
+Basta entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/olivelton-santos) ou [Instagram](https://www.instagram.com/navegandoemc0d1gos/).
+
+##
+
 ### 📱 Acompanhe a minha jornada:
 
 [Site pessoal](https://oliveltonsantos.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/olivelton-santos) | [Instagram](https://www.instagram.com/navegandoemc0d1gos/) | [YouTube](https://www.youtube.com/@navegandoemc0d1gos)
