@@ -51,7 +51,7 @@ Me chamo Olivelton Santos (ou simplesmente Oli).
  
 ##
 
-### 🤝 Oportunidades de trabalho e projetos
+### 🤝 Oportunidades de trabalho e projetos:
 
 Fico disponível para oportunidades de trabalho remoto ou mudança de cidade.
 
