@@ -2,8 +2,6 @@
 
 Me chamo Olivelton Santos (ou simplesmente Oli).
 
-### ℹ️ Sobre mim:
-
 - Meu propósito é unir educação, design e programação para melhorar a vida das pessoas.
 - Estudando HTML5 e CSS3.
 
