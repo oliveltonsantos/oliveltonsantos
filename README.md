@@ -1,14 +1,13 @@
-<h1 align="center"> <🖖 Hello!> </h1>
+### <🖖 Hello!>
 
-<p>Me chamo Olivelton Santos (ou simplesmente Oli).</p>
+Me chamo Olivelton Santos (ou simplesmente Oli).
 
-### 🎯 Meu propósito é...
- 
- > unir educação, design e programação para melhorar a vida das pessoas.</p>
+### ℹ️ Sobre mim:
 
-### 📝 O que estudo atualmente?
+- Meu propósito é unir educação, design e programação para melhorar a vida das pessoas.
+- Estudando HTML5 e CSS3.
 
-- HTML5 | CSS3
+##
 
 ### 🛠️ Projetos que desenvolvi:
 
@@ -31,6 +30,8 @@
 - [Repositório](https://github.com/oliveltonsantos/idiomas-mais-falados-do-mundo)
  
 </details>
+ 
+##
 
 ### 🚀 Projetos pessoais:
 
@@ -49,12 +50,14 @@
 [Clique aqui!](https://inglescompensadores.bio.link)
 
 </details>
+ 
+##
 
 ### 📱 Acompanhe a minha jornada:
 
 [Site pessoal](https://oliveltonsantos.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/olivelton-santos) | [Instagram](https://www.instagram.com/navegandoemc0d1gos/) | [YouTube](https://www.youtube.com/@navegandoemc0d1gos)
 
-<hr/>
+##
 
 <div align="center">
 <strong> <a href="https://www.youtube.com/watch?v=UF8uR6Z6KLc&ab_channel=Stanford" target="_blank">Stay hungry, stay foolish. | Steve Jobs</a></strong>
