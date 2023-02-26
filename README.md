@@ -2,6 +2,7 @@
 
 Me chamo Olivelton Santos (ou simplesmente Oli).
 
+- Sou uma pessoa curiosa 🤔 e um desenvolvedor front-end em evolução constante! 🧗
 - Meu propósito é unir educação, design e programação para melhorar a vida das pessoas.
 - Estudando HTML5 e CSS3.
 
@@ -61,7 +62,7 @@ Basta entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/olivelton-sa
 
 ### 📱 Acompanhe a minha jornada:
 
-[Site pessoal](https://oliveltonsantos.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/olivelton-santos) | [Instagram](https://www.instagram.com/navegandoemc0d1gos/) | [YouTube](https://www.youtube.com/@navegandoemc0d1gos)
+[Site pessoal](https://oliveltonsantos.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/olivelton-santos) | [Instagram](https://www.instagram.com/navegandoemc0d1gos/) | [YouTube](https://www.youtube.com/@navegandoemc0d1gos) | [Medium](https://medium.com/@olivelton.santos)
 
 ##
 
