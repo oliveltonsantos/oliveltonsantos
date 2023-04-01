@@ -66,7 +66,9 @@ Me chamo Olivelton Santos (ou simplesmente Oli).
 
 Fico disponível para oportunidades de trabalho remoto ou mudança de cidade.
 
-Basta entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/olivelton-santos) ou [Instagram](https://www.instagram.com/navegandoemc0d1gos/).
+Basta entrar em contato:
+- E-mail: contatoolivelton@gmail.com
+- WhatsApp: (037) 99779‑0303
 
 ##
 
