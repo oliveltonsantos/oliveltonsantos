@@ -64,8 +64,6 @@ Me chamo Olivelton Santos (ou simplesmente Oli).
 
 ### 🤝 Oportunidades de trabalho e projetos:
 
-Fico disponível para oportunidades de trabalho remoto ou mudança de cidade.
-
 Basta entrar em contato:
 - E-mail: contatoolivelton@gmail.com
 - WhatsApp: (037) 99779‑0303
