@@ -62,14 +62,6 @@ Me chamo Olivelton Santos (ou simplesmente Oli).
  
 ##
 
-### 🤝 Oportunidades de trabalho e projetos:
-
-Basta entrar em contato:
-- E-mail: contatoolivelton@gmail.com
-- WhatsApp: (037) 99779‑0303
-
-##
-
 ### 📱 Acompanhe a minha jornada:
 
 [Site pessoal](https://oliveltonsantos.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/olivelton-santos) | [Instagram](https://www.instagram.com/navegandoemc0d1gos/) | [YouTube](https://www.youtube.com/@navegandoemc0d1gos) | [Medium](https://medium.com/@olivelton.santos)
