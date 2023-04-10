@@ -22,6 +22,18 @@ Me chamo Olivelton Santos (ou simplesmente Oli).
 
 <details>
  
+<details>
+ 
+<summary>Card redes sociais</summary>
+ 
+- [Resultado final (clique aqui)](https://github.com/oliveltonsantos/card-links)
+ 
+- [Repositório (clique aqui)](https://oliveltonsantos.github.io/card-links)
+ 
+</details>
+
+<details>
+ 
 <summary>Landing page: Idiomas mais falados no mundo</summary>
 
 - [Resultado final (clique aqui)](https://oliveltonsantos.github.io/idiomas-mais-falados-do-mundo/)
