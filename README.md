@@ -22,8 +22,6 @@ Me chamo Olivelton Santos (ou simplesmente Oli).
 
 <details>
  
-<details>
- 
 <summary>Card redes sociais</summary>
  
 - [Resultado final (clique aqui)](https://github.com/oliveltonsantos/card-links)
