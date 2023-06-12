@@ -1,7 +1,5 @@
 ### <🖖 Hello!>
 
-Me chamo Olivelton Santos (ou simplesmente Oli).
-
 - Sou uma pessoa curiosa 🤔 e um desenvolvedor front-end em evolução constante! 🧗
 - Meu propósito é unir educação, design e programação para melhorar a vida das pessoas.
 - Estudando HTML 5, CSS 3 e JavaScript.
