@@ -6,60 +6,6 @@
 
 ##
 
-### 🛠️ Projetos que desenvolvi:
-
-<details>
- 
-<summary>Portfólio pessoal</summary>
- 
-- [Resultado final (clique aqui)](https://oliveltonsantos.github.io/portfolio/)
- 
-- [Repositório (clique aqui)](https://github.com/oliveltonsantos/portfolio)
- 
-</details>
-
-<details>
- 
-<summary>Card redes sociais</summary>
- 
-- [Resultado final (clique aqui)](https://oliveltonsantos.github.io/card-links)
- 
-- [Repositório (clique aqui)](https://github.com/oliveltonsantos/card-links)
- 
-</details>
-
-<details>
- 
-<summary>Landing page: Idiomas mais falados no mundo</summary>
-
-- [Resultado final (clique aqui)](https://oliveltonsantos.github.io/idiomas-mais-falados-do-mundo/)
- 
-- [Repositório (clique aqui)](https://github.com/oliveltonsantos/idiomas-mais-falados-do-mundo)
- 
-</details>
-
-<details>
- 
-<summary>Formulário de recrutamento</summary>
- 
-- [Resultado final (clique aqui)](https://oliveltonsantos.github.io/formulario-de-recrutamento/)
- 
-- [Repositório (clique aqui)](https://github.com/oliveltonsantos/formulario-de-recrutamento)
- 
-</details>
-
-<details>
- 
-<summary>Verificador de nível de inglês</summary>
- 
-- [Resultado final (clique aqui)](https://oliveltonsantos.github.io/verificador-de-nivel-de-ingles/)
- 
-- [Repositório (clique aqui)](https://github.com/oliveltonsantos/verificador-de-nivel-de-ingles)
- 
-</details>
- 
-##
-
 ### 🚀 Projetos pessoais:
 
 <details>
@@ -77,12 +23,6 @@
 [Clique aqui!](https://inglescompensadores.bio.link)
 
 </details>
- 
-##
-
-### 📱 Acompanhe a minha jornada:
-
-[clique aqui!](https://oliveltonsantos.github.io/card-links/) 
 
 ##
 
