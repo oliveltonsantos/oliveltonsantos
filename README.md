@@ -1,4 +1,4 @@
-<img alt="Code Girl image" src="./background-profile.png"  width="1000px"/>
+<img alt="Code Girl image" src="./background-profile.png"  width="720px"/>
 
 ### <🖖 Hello, World!>
 
