@@ -20,9 +20,15 @@
 
 <p>E se você ficou curioso(a) para saber mais, deixo o link abaixo.</p>
  
-[Clique aqui!](https://inglescompensadores.bio.link)
+[Clique aqui para visualizar](https://inglescompensadores.bio.link)
 
 </details>
+
+##
+
+### 👨‍💻 Meu portfólio:
+
+[Clique aqui para visualizar](https://hellooli.com/)
 
 ##
 
