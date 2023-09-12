@@ -1,6 +1,6 @@
-<div align="center">
-<img alt="Imagem com a frase: Everything starts with questions: Why? What if? How can I?" src="./background-profile.png"  width="720px"/>
-</div>
+<em> 💡 Everything starts with questions: Why? What if? How can I? </em>
+
+##
 
 ### <🖖 Hello, World!>
 
