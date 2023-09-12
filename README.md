@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Imagem com a frase: Everything starts with questions: Why? What if? How can I?" src="./background-profile.png"  width="720px"/>
+<img alt="Imagem com a frase: Everything starts with questions: Why? What if? How can I?" src="./background-profile.png"  width="770px"/>
 </div>
 
 ### <🖖 Hello, World!>
