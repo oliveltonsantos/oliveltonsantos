@@ -1,4 +1,4 @@
-### <🖖 Hello!>
+### <🖖 Hello, World!>
 
 - Sou uma pessoa curiosa e um desenvolvedor front-end em evolução constante!
 - Meu propósito é unir educação, design e programação para melhorar a vida das pessoas.
