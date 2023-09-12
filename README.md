@@ -1,3 +1,5 @@
+<img alt="Code Girl image" src="./background-profile.png"  width="1000px"/>
+
 ### <🖖 Hello, World!>
 
 - Sou uma pessoa curiosa e um desenvolvedor front-end em evolução constante!
