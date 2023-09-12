@@ -1,4 +1,4 @@
-<img alt="Code Girl image" src="./background-profile.png"  width="720px"/>
+<img align="center" alt="Imagem com a frase: Everything starts with questions: Why? What if? How can I?" src="./background-profile.png"  width="720px"/>
 
 ### <🖖 Hello, World!>
 
