@@ -24,7 +24,7 @@
 
 <p>E se você ficou curioso(a) para saber mais, deixo o link abaixo.</p>
  
-[Clique aqui para visualizar](https://inglescompensadores.bio.link)
+[www.inglescompensadores.com.br](https://inglescompensadores.bio.link)
 
 </details>
 
@@ -32,7 +32,7 @@
 
 ### 👨‍💻 Meu portfólio:
 
-[Clique aqui para visualizar](https://hellooli.com/)
+[www.hellooli.com](https://hellooli.com/)
 
 ##
 
