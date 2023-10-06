@@ -12,21 +12,15 @@
 
 ### 🚀 Projetos pessoais:
 
-<details>
+Inglês com Pensadores
 
-<summary>Inglês com Pensadores</summary>
+💡 Propósito: ajudar as pessoas a conquistarem uma vida extraordinária através do inglês!
 
-<br>
- 
-<p>💡 Propósito: ajudar as pessoas a conquistarem uma vida extraordinária através do inglês!</p>
+Este é um projeto educacional que visa ensinar as pessoas a como aprender inglês sozinhas e disponibilizar material de estudo gratuitamente. Conforme for evoluindo minhas habilidades irei implementar melhorias na parte tecnológica do projeto.
 
-<p>Este é um projeto educacional que visa ensinar as pessoas a como aprender inglês sozinhas e disponibilizar material de estudo gratuitamente. Conforme for evoluindo minhas habilidades irei implementar melhorias na parte tecnológica do projeto.</p>
-
-<p>E se você ficou curioso(a) para saber mais, deixo o link abaixo.</p>
+E se você ficou curioso(a) para saber mais, deixo o link abaixo.
  
 [www.inglescompensadores.com.br](https://inglescompensadores.bio.link)
-
-</details>
 
 ##
 
