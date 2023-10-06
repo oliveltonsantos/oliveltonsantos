@@ -14,7 +14,7 @@
 
 Inglês com Pensadores
 
-💡 Propósito: ajudar as pessoas a conquistarem uma vida extraordinária através do inglês!
+Propósito: ajudar as pessoas a conquistarem uma vida extraordinária através do inglês!
 
 Este é um projeto educacional que visa ensinar as pessoas a como aprender inglês sozinhas e disponibilizar material de estudo gratuitamente. Conforme for evoluindo minhas habilidades irei implementar melhorias na parte tecnológica do projeto.
 
