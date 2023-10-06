@@ -4,7 +4,7 @@
 
 ### <🖖 Hello, World!>
 
-- Sou uma pessoa curiosa e um desenvolvedor front-end em evolução constante!
+- Sou uma pessoa curiosa e um Desenvolvedor Front-End em evolução constante!
 - Meu propósito é unir educação, design e programação para melhorar a vida das pessoas.
 - Estudando HTML 5, CSS 3, JavaScript e SEO.
 
