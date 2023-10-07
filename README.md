@@ -1,12 +1,10 @@
-<em> 💡 Everything starts with questions: Why? What if? How can I? </em>
-
-##
-
 ### <🖖 Hello, World!>
 
 - Sou uma pessoa curiosa e um Desenvolvedor Front-End em evolução constante!
 - Meu propósito é unir educação, design e programação para melhorar a vida das pessoas.
 - Estudando HTML 5, CSS 3, JavaScript e SEO.
+
+<em> 💡 Everything starts with questions: Why? What if? How can I? </em>
 
 ##
 
@@ -31,5 +29,5 @@ E se você ficou curioso(a) para saber mais, deixo o link abaixo.
 ##
 
 <div align="center">
-<strong> <a href="https://www.youtube.com/watch?v=UF8uR6Z6KLc&ab_channel=Stanford" target="_blank">Stay hungry, stay foolish. | Steve Jobs</a></strong>
+<strong> <a href="https://www.youtube.com/watch?v=UF8uR6Z6KLc&ab_channel=Stanford" target="_blank">Stay hungry, stay foolish. - Steve Jobs</a></strong>
 </div>
