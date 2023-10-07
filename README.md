@@ -2,7 +2,7 @@
 
 - Sou uma pessoa curiosa e um Desenvolvedor Front-End em evolução constante!
 - Meu propósito é unir educação, design e programação para melhorar a vida das pessoas.
-- Uma frase: <em> Everything starts with questions: Why? What if? How can I? / Tudo começa com perguntas: Por quê? E se? Como posso? </em>
+- Uma frase: Everything starts with questions: Why? What if? How can I? / Tudo começa com perguntas: Por quê? E se? Como posso?
 - Estudando HTML 5, CSS 3, JavaScript e SEO.
 
 ##
