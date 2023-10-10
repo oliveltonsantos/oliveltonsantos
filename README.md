@@ -3,7 +3,18 @@
 - Sou uma pessoa curiosa e um Desenvolvedor Front-End em evolução constante!
 - Meu propósito é unir educação, design e programação para melhorar a vida das pessoas.
 - Uma frase: Everything starts with questions: Why? What if? How can I? / Tudo começa com perguntas: Por quê? E se? Como posso?
-- Estudando HTML 5, CSS 3, JavaScript e SEO.
+
+##
+
+### 💻 Linguagens
+
+HTML 5 | CSS 3 | JavaScript
+
+##
+
+### 👨‍💻 Meu portfólio:
+
+[www.hellooli.com](https://hellooli.com/)
 
 ##
 
@@ -21,9 +32,11 @@ E se você ficou curioso(a) para saber mais, deixo o link abaixo.
 
 ##
 
-### 👨‍💻 Meu portfólio:
+### 📱 Contato:
 
-[www.hellooli.com](https://hellooli.com/)
+LinkedIn: [www.linkedin.com/in/olivelton-santos](www.linkedin.com/in/olivelton-santos)
+
+E-mail: olivelton@hellooli.com
 
 ##
 
