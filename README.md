@@ -34,7 +34,7 @@ E se você ficou curioso(a) para saber mais, deixo o link abaixo.
 
 ### 📱 Contato:
 
-LinkedIn: [www.linkedin.com/in/olivelton-santos](www.linkedin.com/in/olivelton-santos)
+LinkedIn: [www.linkedin.com/in/olivelton-santos](https://www.linkedin.com/in/olivelton-santos)
 
 E-mail: olivelton@hellooli.com
 
