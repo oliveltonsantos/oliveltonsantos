@@ -28,7 +28,7 @@ Este é um projeto educacional que visa ensinar as pessoas a como aprender ingl�
 
 E se você ficou curioso(a) para saber mais, deixo o link abaixo.
  
-[www.inglescompensadores.com.br](https://inglescompensadores.bio.link)
+[www.inglescompensadores.com.br](https://inglescompensadores.com.br)
 
 ##
 
