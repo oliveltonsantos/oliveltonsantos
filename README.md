@@ -36,7 +36,7 @@ E se você ficou curioso(a) para saber mais, deixo o link abaixo.
 
 LinkedIn: [www.linkedin.com/in/olivelton-santos](https://www.linkedin.com/in/olivelton-santos)
 
-E-mail: olivelton@hellooli.com
+E-mail: 	ola@hellooli.com
 
 ##
 
