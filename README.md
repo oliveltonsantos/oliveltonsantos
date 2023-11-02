@@ -2,13 +2,13 @@
 
 - Sou uma pessoa curiosa e um Desenvolvedor Front-End em evolução constante!
 - Meu propósito é unir educação, design e programação para melhorar a vida das pessoas.
-- Uma frase: Everything starts with questions: Why? What if? How can I? / Tudo começa com perguntas: Por quê? E se? Como posso?
 
 ##
 
-### 💻 Linguagens:
+### 💻 Linguagens e conhecimentos gerais:
 
-HTML 5 | CSS 3 | JavaScript
+- HTML 5 | CSS 3 | JavaScript
+- Wordpress | SEO
 
 ##
 
