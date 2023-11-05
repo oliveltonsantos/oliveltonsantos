@@ -8,7 +8,7 @@
 ### 💻 Linguagens e conhecimentos gerais:
 
 - HTML 5 | CSS 3 | JavaScript
-- Wordpress | SEO
+- Wordpress |  E-commerce | SEO
 
 ##
 
