@@ -5,7 +5,7 @@
 
 ##
 
-### 💻 Linguagens e conhecimentos gerais:
+### 💻 Linguagens e outros conhecimentos:
 
 - HTML 5 | CSS 3 | JavaScript
 - Wordpress |  E-commerce | SEO
