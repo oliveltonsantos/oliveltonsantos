@@ -32,7 +32,7 @@ Saiba mais: [www.inglescompensadores.com.br](https://inglescompensadores.com.br)
 
 ### 📱 Contato:
 
-LinkedIn: [www.linkedin.com/in/olivelton-santos](https://www.linkedin.com/in/oliveltonsantos/)
+LinkedIn: [www.linkedin.com/in/oliveltonsantos/](https://www.linkedin.com/in/oliveltonsantos)
 
 E-mail: 	ola@hellooli.com
 
