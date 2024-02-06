@@ -24,7 +24,7 @@ Inglês com Pensadores
 
 Propósito: ajudar as pessoas a conquistarem uma vida extraordinária através do inglês!
 
-Este é um projeto educacional que visa ensinar as pessoas a como aprender inglês sozinhas e disponibilizar material de estudo gratuitamente.
+Projeto social focado no ensino gratuito do idioma inglês, tem como propósito ensinar as pessoas a como aprender inglês sozinhas e também disponibilizar materiais de estudo gratuitamente.
 
 Saiba mais: [www.inglescompensadores.com.br](https://inglescompensadores.com.br)
 
