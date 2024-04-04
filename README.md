@@ -1,5 +1,6 @@
 ### <🖖 Hello, World!>
 
+- < Building myself through code >
 - Sou uma pessoa curiosa e um Desenvolvedor Front-End em evolução constante!
 - Meu propósito é unir educação, design e programação para melhorar a vida das pessoas.
 
