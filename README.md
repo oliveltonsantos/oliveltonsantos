@@ -7,7 +7,7 @@
 - 💬 Projeto pessoal: [www.inglescompensadores.com.br](https://inglescompensadores.com.br)
 - 💼 LinkedIn: [www.linkedin.com/in/oliveltonsantos/](https://www.linkedin.com/in/oliveltonsantos)
 - 📺 YouTube: [https://www.youtube.com/@navegandoemc0d1gos](https://www.youtube.com/@navegandoemc0d1gos)
-- 📱 Contato: ola@hellooli.com
+- 📧 Contato: ola@hellooli.com
 
 ##
 
