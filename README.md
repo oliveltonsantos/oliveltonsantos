@@ -4,7 +4,7 @@
 - 🧔🏻 Sou uma pessoa curiosa e um Desenvolvedor Front-End em evolução constante! Meu propósito é unir educação, design e programação para melhorar a vida das pessoas.
 - 📚 HTML 5 | CSS 3 | JavaScript | Wordpress |  E-commerce | SEO
 - 💻 Meu portfólio: [www.hellooli.com](https://hellooli.com/)
-- - 🚀 Projeto pessoal: [www.inglescompensadores.com.br](https://inglescompensadores.com.br)
+- 🚀 Projeto pessoal: [www.inglescompensadores.com.br](https://inglescompensadores.com.br)
 - 💼 LinkedIn: [www.linkedin.com/in/oliveltonsantos/](https://www.linkedin.com/in/oliveltonsantos)
 - 📱 Contato: ola@hellooli.com
 
