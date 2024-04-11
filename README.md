@@ -2,7 +2,8 @@
 
 - 🧑‍💻 < Building myself through code >
 - 💡 Sou uma pessoa curiosa e um Desenvolvedor Front-End em evolução constante! Meu propósito é unir educação, design e programação para melhorar a vida das pessoas.
-- 📚 HTML 5 | CSS 3 | JavaScript | Wordpress |  E-commerce | SEO
+- 🛠 Linguagens: HTML 5 | CSS 3 | JavaScript
+- 📚 Conhecimentos complementares: Wordpress |  E-commerce | SEO
 - 💻 Meu portfólio: [www.hellooli.com](https://hellooli.com/)
 - 💬 Projeto pessoal: [www.inglescompensadores.com.br](https://inglescompensadores.com.br)
 - 💼 LinkedIn: [www.linkedin.com/in/oliveltonsantos/](https://www.linkedin.com/in/oliveltonsantos)
