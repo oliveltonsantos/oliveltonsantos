@@ -1,6 +1,6 @@
 ### <🖖 Hello, World!>
 
-- 🧑‍💻 < Building myself through code >
+- 🧑‍💻 < Building myself through curiosity and code >
 - 💡 Sou uma pessoa curiosa e um Desenvolvedor Front-End em evolução constante! Meu propósito é unir educação, design e programação para melhorar a vida das pessoas.
 - 🛠 Linguagens: HTML 5 | CSS 3 | JavaScript
 - 📚 Conhecimentos complementares: Wordpress |  E-commerce | SEO
