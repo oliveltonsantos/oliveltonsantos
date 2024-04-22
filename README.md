@@ -9,7 +9,6 @@
 - 💼 LinkedIn: [www.linkedin.com/in/oliveltonsantos](https://www.linkedin.com/in/oliveltonsantos)
 - 📺 YouTube: [https://www.youtube.com/@navegandoemc0d1gos](https://www.youtube.com/@navegandoemc0d1gos)
 - 📧 E-mail: ola@olivelton.com
-- 📱 WhatsApp: [www.whatsapp.com/olivelton-santos](https://api.whatsapp.com/send/?phone=5537997790303&text&type=phone_number&app_absent=0)
 
 ##
 
