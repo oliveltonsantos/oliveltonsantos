@@ -3,7 +3,7 @@
 - 🧑‍💻 < Building myself through curiosity and code >
 - 💡 Sou uma pessoa curiosa e um Desenvolvedor Front-End em evolução constante! Meu propósito é unir educação, design e programação para melhorar a vida das pessoas.
 - 🛠 Linguagens: HTML 5 | CSS 3 | JavaScript
-- 📚 Conhecimentos complementares: Wordpress |  E-commerce | SEO
+- 📚 Conhecimentos complementares: Wordpress | SEO
 - 💻 Conheça meu portfólio: [www.olivelton.com](https://olivelton.com/links)
 - 📧 E-mail: ola@olivelton.com
 
