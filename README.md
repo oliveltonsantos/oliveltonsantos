@@ -1,4 +1,4 @@
-### <🖖 Hello, World!>
+### < hello! :) >
 
 - 🛠 Linguagens: JavaScript / CSS / HTML
 - 📚 Conhecimentos complementares: Web Design / WordPress / SEO
