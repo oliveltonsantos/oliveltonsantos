@@ -1,5 +1,7 @@
 ### < hello! :) >
 
+<h1 style="color:blue;">< hello! :) ></h1>
+
 - 🛠 Linguagens: JavaScript / CSS / HTML
 - 📚 Conhecimentos complementares: Web Design / WordPress / SEO
 - 🎯 Meu propósito é unir educação, design e programação para transformar a vida das pessoas.
