@@ -1,6 +1,6 @@
 ### < hello! :) >
 
-<h1 style="color:blue;">< hello! :) ></h1>
+<h1 style="color:blue;"> hello! :) </h1>
 
 - 🛠 Linguagens: JavaScript / CSS / HTML
 - 📚 Conhecimentos complementares: Web Design / WordPress / SEO
