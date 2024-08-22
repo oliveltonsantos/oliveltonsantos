@@ -4,9 +4,3 @@
 - 📚 Conhecimentos complementares: Web Design / WordPress / SEO
 - 🎯 Meu propósito é unir educação, design e programação para transformar a vida das pessoas.
 - ✅ Conheça meu portfólio: [www.olivelton.com](https://olivelton.com/links)
-
-##
-
-<div align="center">
-<strong> <a href="https://www.youtube.com/watch?v=UF8uR6Z6KLc&ab_channel=Stanford" target="_blank">Stay hungry, stay foolish. - Steve Jobs</a></strong>
-</div>
