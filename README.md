@@ -1,2 +1,3 @@
+- 🧑‍💻 Desenvolvedor Front-end
 - 🛠 Linguagens: JavaScript | CSS 3 | HTML 5
 - ✅ Conheça meu trabalho: [www.olivelton.com](https://olivelton.com)
