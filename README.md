@@ -1,3 +1,2 @@
-- 🛠 Linguagens: JavaScript | CSS | HTML
-- 📚 Conhecimentos complementares: Web Design | WordPress | SEO
+- 🛠 Linguagens: JavaScript | CSS 3 | HTML 5
 - ✅ Conheça meu trabalho: [www.olivelton.com](https://olivelton.com)
