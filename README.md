@@ -1,3 +1,4 @@
 - 🧑‍💻 Desenvolvedor Front-end
-- 🛠 Linguagens: JavaScript | CSS 3 | HTML 5
+- 🧰 Linguagens: JavaScript | CSS 3 | HTML 5
+- 📚 Outros conhecimentos: Wordpress | Web Design | SEO | Marketing
 - ✅ Conheça meu trabalho: [www.olivelton.com](https://olivelton.com)
