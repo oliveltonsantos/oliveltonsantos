@@ -1,5 +1,7 @@
 # 🧑‍💻 Desenvolvedor Front-end
 
+Olá!
+
 Trabalho com JavaScript, CSS e HTML como principais tecnologias.
 
 Também atuo como web designer, criando sites e landing pages com WordPress.
