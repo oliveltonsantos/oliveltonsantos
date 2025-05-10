@@ -1,6 +1,4 @@
-# console.log('Olá!')
-
-## 🧑‍💻 Desenvolvedor Front-end
+# 🧑‍💻 Desenvolvedor Front-end
 
 Trabalho com JavaScript, CSS e HTML como principais tecnologias.
 
