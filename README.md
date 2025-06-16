@@ -1,6 +1,8 @@
 # 🧑‍💻 Desenvolvedor Front-end
 
-Trabalho com JavaScript, CSS e HTML como principais tecnologias.
+Oi!
+
+Me chamo Oli, trabalho com JavaScript, CSS e HTML como principais tecnologias.
 
 Também atuo como web designer, criando sites e landing pages com WordPress.
 
@@ -9,3 +11,4 @@ Minha experiência em marketing digital e interesse por UX design me ajudam a cr
 - ✅ Portfólio: [www.olivelton.com](https://olivelton.com)
 - 💼 LinkedIn: [www.linkedin.com/oliveltonsantos](https://www.linkedin.com/in/oliveltonsantos)
 - 💬 Contato: ola@olivelton.com
+
