@@ -1,4 +1,4 @@
-# 🧑‍💻 Desenvolvedor Front-end
+# 💡 Desenvolvedor Front-end
 
 Olá, me chamo Olivelton Santos.
 
