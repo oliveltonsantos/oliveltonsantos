@@ -1,10 +1,10 @@
 # 🧑‍💻 Desenvolvedor Front-end
 
-Oi!
+Olá, me chamo Olivelton Santos.
 
-Me chamo Oli, trabalho com JavaScript, CSS e HTML como principais tecnologias.
+Sou desenvolvedor front-end e web designer, trabalho com criação de sites e landing pages com Wordpress na cidade de Divinópolis/MG.
 
-Também atuo como web designer, criando sites e landing pages com WordPress.
+As principais tecnologias que domino são JavaScript, CSS e HTML.
 
 Minha experiência em marketing digital e interesse por UX design me ajudam a criar soluções que funcionam bem para as pessoas e para os negócios.
 
