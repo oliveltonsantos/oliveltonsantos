@@ -1,4 +1,4 @@
-# 💡 Olivelton Santos | Desenvolvedor Front-end
+# 💡 Olivelton Santos | Desenvolvedor Front-end e Web designer
 
 Olá, me chamo Olivelton Santos.
 
