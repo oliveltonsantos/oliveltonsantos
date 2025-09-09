@@ -6,10 +6,7 @@ Sou desenvolvedor front-end e web designer especializado na criação de sites e
 
 Trabalho com as principais tecnologias da web — JavaScript, CSS e HTML — e aplico minha experiência em marketing digital e interesse por UX design para desenvolver soluções que unem estética, usabilidade e resultados reais para pessoas e negócios.
 
-- ✅ Portfólio: [www.olivelton.com](https://olivelton.com)
-- 🛠️ Serviços: [www.olivelton.com/criacao-de-sites-e-landing-pages](https://olivelton.com/blog/criacao-de-sites-em-divinopolis-mg)
-- 💼 LinkedIn: [www.linkedin.com/oliveltonsantos](https://www.linkedin.com/in/oliveltonsantos)
-- 💬 Contato: ola@olivelton.com 
+- 💬 Contato: [www.olivelton.com/links](https://olivelton.com/links) 
 
 
 
