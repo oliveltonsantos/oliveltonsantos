@@ -2,7 +2,7 @@
 
 Olá, me chamo Olivelton Santos.
 
-Sou desenvolvedor front-end e web designer especializado na criação de sites e landing pages com WordPress em Divinópolis/MG.
+Desenvolvedor front-end e web designer especializado na criação de sites e landing pages com WordPress em Divinópolis/MG.
 
 Trabalho com as principais tecnologias da web — JavaScript, CSS e HTML — e aplico minha experiência em marketing digital e interesse por UX design para desenvolver soluções que unem estética, usabilidade e resultados reais para pessoas e negócios.
 
