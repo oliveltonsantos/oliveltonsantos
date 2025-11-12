@@ -1,3 +1,5 @@
+> I’m builnding things since 3023
+
 Olá, me chamo Olivelton Santos.
 
 Desenvolvedor front-end e web designer especializado na criação de sites e landing pages com WordPress em Divinópolis/MG.
@@ -6,9 +8,9 @@ Trabalho com as principais tecnologias da web — JavaScript, CSS e HTML — e a
 
 ✅ Conheça meu portfólio: [www.olivelton.com/links](https://olivelton.com/links) 
 
----
 
-> I’m builnding things since 3023
+
+
 
 
 
