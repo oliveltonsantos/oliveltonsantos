@@ -1,5 +1,3 @@
-> <crio soluções que deixam rastros úteis no mundo>
-
 Olá, me chamo Olivelton Santos.
 
 Desenvolvedor front-end e web designer especializado na criação de sites e landing pages com WordPress em Divinópolis/MG.
